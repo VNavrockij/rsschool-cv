@@ -11,3 +11,25 @@
 ###### [Instagram Pages](https://www.instagram.com/v.nvrck)
 ###### [FaceBook Pages](https://www.facebook.com/navrotskyivitalii)
 ---
+**Objective**
+
+- Learn programming for iOS. Become the best professional. For this, I have all the possibilities, and most importantly, a passionate desire (and perseverance). I want smart, talented and successful people to surround me.
+---
+**Education**
+
+- Kyiv Slavonic University, Customs (September 2008 - not finished)
+- I thoroughly started his career in IT since January 2020 and devote at least 6 hours a day.
+
+*Studying:*
+ * iOS Development Course Beginner by Alex Skutarenko
+ * Swift marathon by Alex Alex Skutarenko
+ * "Hello Swift" School of Brother Anthony
+ * RS-School iOS
+---
+**Work experience**
+
+- From 2008-2011, worked as a bartender on national television.
+- From 2011-2018, co-owner of the family coffee business.
+- Since 2018, retired and devoted time to his family.
+- From 2020, start IT career.
+---
