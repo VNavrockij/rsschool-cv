@@ -33,3 +33,20 @@
 - Since 2018, retired and devoted time to his family.
 - From 2020, start IT career.
 ---
+**Personal qualities**
+
+- Tenacity
+- Good concentration
+- Perseverance
+- Responsibility
+- Sociability
+---
+**Special skills**
+
+*Language skills:*
+ * English - Elementary A2 (in the process of studying)
+ * Russian - Native
+ * Ukraine - Fluent
+ 
+ *Hobbies:*
+ * Sewing for my family.
