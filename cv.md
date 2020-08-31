@@ -1,5 +1,5 @@
 # **Navrotskyi Vitalii**
-[Foto](https://scontent.fiev5-1.fna.fbcdn.net/v/t1.0-9/47485859_1267985493342832_1349592287633473536_n.jpg?_nc_cat=109&_nc_sid=85a577&_nc_ohc=PZOdqKANy8QAX8pl_Vy&_nc_ht=scontent.fiev5-1.fna&oh=3f02df19262742bcc59220680da1f9bb&oe=5F005D77)
+[Foto](https://ibb.co/K7BXYGg)
 ## *Starter programist, Junior*
 ##### Kiev, Ukraine
 ##### Married
@@ -13,7 +13,7 @@
 ---
 **Objective**
 
-- Learn programming for iOS. Become the best professional. For this, I have all the possibilities, and most importantly, a passionate desire (and perseverance). I want smart, talented and successful people to surround me.
+- I am learning programming for iOS. I will become the best professional. For this I have all the possibilities, and most importantly a passionate desire (and persistence). I want to be surrounded by smart, talented and successful people
 ---
 **Education**
 
@@ -21,10 +21,15 @@
 - I thoroughly started his career in IT since January 2020 and devote at least 6 hours a day.
 
 *Studying:*
+ * C language basics
  * iOS Development Course Beginner by Alex Skutarenko
  * Swift marathon by Alex Alex Skutarenko
  * "Hello Swift" School of Brother Anthony
- * RS-School iOS
+ * RS-School iOS by "EPAM Systems"
+ * Basic Html & CSS (https://stepik.org/2621)
+ * WebDev Html & CSS (https://stepik.org/course/38218/syllabus)
+ * JavaScript for Beginners (https://stepik.org/course/3432/syllabus)
+ 
 ---
 **Work experience**
 
@@ -47,6 +52,6 @@
  * English - Elementary A2 (in the process of studying)
  * Russian - Native
  * Ukraine - Fluent
- 
+
  *Hobbies:*
  * Sewing for my family.
