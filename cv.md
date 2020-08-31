@@ -13,7 +13,7 @@
 ---
 **Objective**
 
-- I am learning programming for iOS. I will become the best professional. For this I have all the possibilities, and most importantly a passionate desire (and persistence). I want to be surrounded by smart, talented and successful people
+- I am learning programming for iOS. I will become the best professional. For this I have all the possibilities, and most importantly a passionate desire (and persistence). I want to be surrounded by smart, talented and successful people to surround me.
 ---
 **Education**
 
