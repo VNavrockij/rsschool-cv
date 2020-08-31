@@ -21,6 +21,7 @@
 - I thoroughly started his career in IT since January 2020 and devote at least 6 hours a day.
 
 *Studying:*
+
  * C language basics
  * iOS Development Course Beginner by Alex Skutarenko
  * Swift marathon by Alex Alex Skutarenko
@@ -29,7 +30,6 @@
  * Basic Html & CSS (https://stepik.org/2621)
  * WebDev Html & CSS (https://stepik.org/course/38218/syllabus)
  * JavaScript for Beginners (https://stepik.org/course/3432/syllabus)
- 
 ---
 **Work experience**
 
@@ -37,7 +37,6 @@
 - From 2011-2019, co-owner of the family coffee business.
 - Since 2019, retired and devoted time to his family.
 - From 2020, start IT career.
-
 ---
 **Personal qualities**
 
@@ -46,7 +45,6 @@
 - Perseverance
 - Responsibility
 - Sociability
-
 ---
 **Special skills**
 
