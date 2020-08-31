@@ -37,6 +37,7 @@
 - From 2011-2019, co-owner of the family coffee business.
 - Since 2019, retired and devoted time to his family.
 - From 2020, start IT career.
+
 ---
 **Personal qualities**
 
@@ -45,6 +46,7 @@
 - Perseverance
 - Responsibility
 - Sociability
+
 ---
 **Special skills**
 
