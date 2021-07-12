@@ -13,7 +13,7 @@
 ---
 **Objective**
 
-- I am learning programming for iOS. I will become the best professional. For this I have all the possibilities, and most importantly a passionate desire (and persistence). I want to be surrounded by smart, talented and successful people to surround me.
+- I am learning programming for iOS and HTML/CSS/JS. I will become the best professional. For this I have all the possibilities, and most importantly a passionate desire (and persistence). I want to be surrounded by smart, talented and successful people to surround me.
 ---
 **Education**
 
@@ -22,6 +22,7 @@
 
 *Studying:*
 
+ * Sh++ School Course
  * C language basics
  * iOS Development Course Beginner by Alex Skutarenko
  * Swift marathon by Alex Alex Skutarenko
