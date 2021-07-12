@@ -38,6 +38,7 @@
 - From 2011-2019, co-owner of the family coffee business.
 - Since 2019, retired and devoted time to his family.
 - From 2020, start IT career.
+- Since 2020, i have been working in an international pharmaceutical company.
 ---
 **Personal qualities**
 
