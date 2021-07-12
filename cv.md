@@ -27,7 +27,7 @@
  * iOS Development Course Beginner by Alex Skutarenko
  * Swift marathon by Alex Alex Skutarenko
  * "Hello Swift" School of Brother Anthony
- * RS-School iOS by "EPAM Systems"
+ * RS-School iOS by "EPAM Systems" 2020
  * Basic Html & CSS (https://stepik.org/2621)
  * WebDev Html & CSS (https://stepik.org/course/38218/syllabus)
  * JavaScript for Beginners (https://stepik.org/course/3432/syllabus)
