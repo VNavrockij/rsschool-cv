@@ -7,8 +7,8 @@
 
 /* COLORS */
     --title-color: #0B0A0A;
-    --test-color: #403A3A;
-    --test-color-light: #707070;
+    --text-color: #403A3A;
+    --text-color-light: #707070;
     --container-color: #FAFAFA;
     --container-color-alt: #F0EFEF;
     --body-color: #FCFCFC;
@@ -51,7 +51,7 @@ body {
     font-family: var(--body-font);
     font-size: var(--normal-font-size);
     background-color: var(--body-color);
-    color: var(--test-color);
+    color: var(--text-color);
 }
 
 h1,h2,h3,ul,p {
@@ -165,7 +165,7 @@ img {
     display: flex;
     flex-direction: column;
     font-size: var(--smaller-font-size);
-    color: var(--test-color-light);
+    color: var(--text-color-light);
     font-weight: var(--font-medium);
 }
 
@@ -184,11 +184,85 @@ img {
 }
 
 /* ACTIVE MENU LINK */
+.active-link {
+    color: var(--title-color);
+}
 
 /* HOME */
+.home {
+    position: relative;
+}
+
+.home__container {
+    gap: 3rem;
+}
+
+.home__data {
+    gap: .5rem;
+    text-align: center;
+}
+
+.home__img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    justify-self: center;
+    margin-bottom: var(--mb-1);
+    box-shadow: 0 0 8px rgba(0, 0, 0, .6);
+}
+
+.home__title {
+    font-size: var(--h1-font-size);
+}
+
+.home__profession {
+    font-size: var(--normal-font-size);
+    margin-bottom: var(--mb-1);
+}
+
+.home__address {
+    gap: 1rem;
+}
+
+.home__information {
+    display: flex;
+    align-items: center;
+    font-size: var(--small-font-size);
+}
+
+.home__icon {
+    font-size: 1.2rem;
+    margin-right: .25rem;
+}
 
 /* SOCIAL */
+.social__container {
+    grid-template-columns: max-content;
+    gap: 1rem;
+}
 
+.social__link {
+    display: inline-flex;
+    align-items: center;
+    font-size: var(--small-font-size);
+    color: var(--text-color);
+}
+
+.social__link:hover {
+    color: var(--title-color);
+}
+
+.social__icon {
+    font-size: 1.2rem;
+    margin-right: .25rem;
+}
+
+/* PROFILE */
+.profile__description {
+    text-align: center;
+}
+
+/* EDUCATION */
 
 /* VARIABLE DARK THEME */
 
