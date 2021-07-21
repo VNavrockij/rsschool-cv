@@ -1,4 +1,5 @@
-// bedimcode
+// github.com/bedimcode
+
 /*==================== SHOW MENU ====================*/
 const showMenu = (toggleId, navId) =>{
     const toggle = document.getElementById(toggleId),
@@ -43,3 +44,11 @@ function scrollActive(){
     })
 }
 window.addEventListener('scroll', scrollActive)
+
+/*==================== SHOW SCROLL TOP ====================*/ 
+function scrollTop(){
+    const scrollTop = document.getElementById('scroll-top');
+    // When the scroll is higher than 560 viewport height, add the show-scroll class to the a tag with the scroll-top class
+    if(this.scrollY >= 200) scrollTop.classList.add('show-scroll'); else scrollTop.classList.remove('show-scroll')
+}
+window.addEventListener('scroll', scrollTop)
