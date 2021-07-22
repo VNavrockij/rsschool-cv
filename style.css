@@ -69,9 +69,6 @@ body.dark-theme {
     color: var(--title-color);
 }
 
-/* BUTTON DARK/LIGHT */
-
-
 body {
     margin: 0 0 var(--header-height) 0;
     padding: 0;
@@ -412,6 +409,29 @@ img {
     margin-bottom: .25rem;
 }
 
+/* Links footer */
+.footer__content {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0;
+}
+
+.footer__name {
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--mb-3);
+}
+
+.footer__icon {
+    font-size: 1.5rem;
+    color: var(--text-color-light);
+    margin-bottom: .25rem;
+}
+
+.footer_rsschool_link {
+    height: 2rem;
+    width: 2rem;
+}
+
 /* Scroll top */
 .scrolltop {
     position: fixed;
@@ -445,6 +465,10 @@ img {
         grid-template-columns: repeat(2, 1fr);
         gap: 1rem .5rem;
     }
+    .footer__content {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
 }
 
 /* for LARGE devices, menu two colums */
